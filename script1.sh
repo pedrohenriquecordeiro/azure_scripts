@@ -1,13 +1,3 @@
-c2de9374
-
-Upload de relatorio PBI
-
-
-
-(CECE001D) - CENTRO_CUSTO_CEC
-(RHUE001D) - EMPREGADO
-(SEGE001D) - USUARIO
-
 ## lista os resource groups
 az group list 
 
